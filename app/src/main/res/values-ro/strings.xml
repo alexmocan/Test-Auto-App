@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Name of the app. [CHAR LIMIT=20]-->
+    <string name="app_name">Auto Test</string>
+
+    <!-- Welcome header text. [CHAR LIMIT=NONE]-->
+    <string name="welcome_text">Bine ati venit la examenul dvs, final!</string>
+
+    <!-- Fill in mane instructions text. [CHAR LIMIT=NONE]-->
+    <string name="fill_in_instruction_text">Va rugam completati mai jos numele si e-mail-ul dumneavoastra, dupa care puteti incepeti testul! Succes!</string>
+
+    <!-- Student name. [CHAR LIMIT=100]-->
+    <string name="student_name">Numele dvs.</string>
+
+    <!-- Student e-mail. [CHAR LIMIT=100]-->
+    <string name="student_email">E-mail-ul dvs.</string>
+
+    <!-- Questions instructions text. [CHAR LIMIT=NONE]-->
+    <string name="questions_instruction_text">Cititi cu atentie fiecare intrebare si scrieti/alegeti raspunsul corect! Fiecare intrebare are cel putin un  raspuns corect. Pentru a trece testul, trebuie sa raspundeti corect la 8 intrebari din totalul de 10 intrebari!</string>
+
+    <!-- Questions 1 text. [CHAR LIMIT=12]-->
+    <string name="question_1_text">Intrebarea 1:</string>
+
+    <!-- Questions 1 context. [CHAR LIMIT=NONE]-->
+    <string name="question_1_context">Ce traseu trebuie sa urmati pentru a vira la stanga in intersectie?</string>
+
+    <!-- Question 1 answer. [CHAR LIMIT=1]-->
+    <string name="question_1_answer">Raspuns 1: scrieti numarul rutei/rutelor</string>
+
+    <!-- Question 1 NO answer text. [CHAR LIMIT=1]-->
+    <string name="no_answer_question_1_text">Nu ati raspuns la intrebarea 1! Va rugam revedeti intrebarea 1 si incercati sa dati raspunsul corect!</string>
+
+    <!-- Questions 2 text. [CHAR LIMIT=12]-->
+    <string name="question_2_text">Intrebarea 2:</string>
+
+    <!-- Questions 2 context. [CHAR LIMIT=NONE]-->
+    <string name="question_2_context">Viteza de deplasare trebuie sa nu depaseasca 30km/h in localitati sau 50km/h in afara localitatilor:</string>
+
+    <!-- Question 2 answer 1. [CHAR LIMIT=NONE]-->
+    <string name="question_2_answer_1">A. la intalnirea indicatorului \"Dum cu prioritate\";</string>
+
+    <!-- Question 2 answer 2. [CHAR LIMIT=NONE]-->
+    <string name="question_2_answer_2">B. in curbe deosebit de periculoase semnalizate ca atare sau in care vizibilitatea este mai mica de 50m;</string>
+
+    <!-- Question 2 answer 3. [CHAR LIMIT=NONE]-->
+    <string name="question_2_answer_3">C. atunci cand se circula in aceeasi directie cu autobuzele oprite in statie, pe drumurile cu o singura banda pe sens.</string>
+
+    <!-- Question 2 NO answer text. [CHAR LIMIT=1]-->
+    <string name="no_answer_question_2_text">Nu ati raspuns la intrebarea 2! Va rugam revedeti intrebarea 2 si incercati sa dati raspunsul corect!</string>
+
+    <!-- Questions 3 text. [CHAR LIMIT=12]-->
+    <string name="question_3_text">Intrebarea 3:</string>
+
+    <!-- Questions 3 context. [CHAR LIMIT=NONE]-->
+    <string name="question_3_context">Care este semnalizarea specifica mersului inapoi?</string>
+
+    <!-- Question 3 answer 1. [CHAR LIMIT=NONE]-->
+    <string name="question_3_answer_1">A. claxonatul intermitent, pentru a-i atentiona pe participantii la trafic din spatele vehiculului;</string>
+
+    <!-- Question 3 answer 2. [CHAR LIMIT=NONE]-->
+    <string name="question_3_answer_2">B. semnalizarea cu luminile de mers inapoi din dotarea autovehiculului;</string>
+
+    <!-- Question 3 answer 3. [CHAR LIMIT=NONE]-->
+    <string name="question_3_answer_3">C. folosirea luminilor de avarie.</string>
+
+    <!-- Question 3 NO answer text. [CHAR LIMIT=1]-->
+    <string name="no_answer_question_3_text">Nu ati raspuns la intrebarea 3! Va rugam revedeti intrebarea 3 si incercati sa dati raspunsul corect!</string>
+
+    <!-- Questions 4 text. [CHAR LIMIT=12]-->
+    <string name="question_4_text">Intrebarea 4:</string>
+
+    <!-- Questions 4 context. [CHAR LIMIT=NONE]-->
+    <string name="question_4_context">Care este traseul optim pentru a intoarce in intersectia prezentata?</string>
+
+    <!-- Question 4 answer. [CHAR LIMIT=1]-->
+    <string name="question_4_answer">Raspuns 4: scrieti numarul rutei/rutelor</string>
+
+    <!-- Question 4 NO answer text. [CHAR LIMIT=1]-->
+    <string name="no_answer_question_4_text">Nu ati raspuns la intrebarea 4! Va rugam revedeti intrebarea 4 si incercati sa dati raspunsul corect!</string>
+
+    <!-- Questions 5 text. [CHAR LIMIT=12]-->
+    <string name="question_5_text">Intrebarea 5:</string>
+
+    <!-- Questions 5 context. [CHAR LIMIT=NONE]-->
+    <string name="question_5_context">Ce deprindere gresita a conducatorului auto determina frecvent defectarea ambreiajului?</string>
+
+    <!-- Question 5 answer 1. [CHAR LIMIT=NONE]-->
+    <string name="question_5_answer_1">A. coborarea pantelor cu motorul oprit sau aducerea schimbatorului de viteze in punctul mort;</string>
+
+    <!-- Question 5 answer 2. [CHAR LIMIT=NONE]-->
+    <string name="question_5_answer_2">B. rularea cu jocuri mari la pedala de ambreiaj sau la mecanismul de directie;</string>
+
+    <!-- Question 5 answer 3. [CHAR LIMIT=NONE]-->
+    <string name="question_5_answer_3">C. asteptarea la semafor avand pedala de ambreiaj apasata.</string>
+
+    <!-- Question 5 NO answer text. [CHAR LIMIT=1]-->
+    <string name="no_answer_question_5_text">Nu ati raspuns la intrebarea 5! Va rugam revedeti intrebarea 5 si incercati sa dati raspunsul corect!</string>
+
+    <!-- Questions 6 text. [CHAR LIMIT=12]-->
+    <string name="question_6_text">Intrebarea 6:</string>
+
+    <!-- Questions 6 context. [CHAR LIMIT=NONE]-->
+    <string name="question_6_context">Care dintre cele doua vehicule va intra primul in intersectie?</string>
+
+    <!-- Question 6 answer 1. [CHAR LIMIT=NONE]-->
+    <string name="question_6_answer_1">A. motocicleta, deoarece se deplaseaza mai repede;</string>
+
+    <!-- Question 6 answer 2. [CHAR LIMIT=NONE]-->
+    <string name="question_6_answer_2">B. motocicleta, deoarece se deplaseaza pe directia inainte;</string>
+
+    <!-- Question 6 answer 3. [CHAR LIMIT=NONE]-->
+    <string name="question_6_answer_3">C. autoturismul, deoarece se deplaseaza pe drumul prioritar.</string>
+
+    <!-- Question 6 NO answer text. [CHAR LIMIT=1]-->
+    <string name="no_answer_question_6_text">Nu ati raspuns la intrebarea 6! Va rugam revedeti intrebarea 6 si incercati sa dati raspunsul corect!</string>
+
+    <!-- Questions 7 text. [CHAR LIMIT=12]-->
+    <string name="question_7_text">Intrebarea 7:</string>
+
+    <!-- Questions 7 context. [CHAR LIMIT=NONE]-->
+    <string name="question_7_context">Viteza se va reduce obligatoriu şi vehiculul va fi oprit:</string>
+
+    <!-- Question 7 answer 1. [CHAR LIMIT=NONE]-->
+    <string name="question_7_answer_1">A. când circulând pe un drum cu o bandă de circulaţie pe sensul de mers, deplasarea înainte este obturată de un obstacol sau de prezenţa altor participanţi la trafic, iar din sens opus circulă alte vehicule;</string>
+
+    <!-- Question 7 answer 2. [CHAR LIMIT=NONE]-->
+    <string name="question_7_answer_2">B. la semnalul poliţistului de frontieră;</string>
+
+    <!-- Question 7 answer 3. [CHAR LIMIT=NONE]-->
+    <string name="question_7_answer_3">C. când barierele sau semibarierele sunt coborâte, în curs de coborâre sau de ridicare.</string>
+
+    <!-- Question 7 NO answer text. [CHAR LIMIT=1]-->
+    <string name="no_answer_question_7_text">Nu ati raspuns la intrebarea 7! Va rugam revedeti intrebarea 7 si incercati sa dati raspunsul corect!</string>
+
+    <!-- Questions 8 text. [CHAR LIMIT=12]-->
+    <string name="question_8_text">Intrebarea 8:</string>
+
+    <!-- Questions 8 context. [CHAR LIMIT=NONE]-->
+    <string name="question_8_context">In ce ordine vor trece prin intersectie cele trei autoturisme?</string>
+
+    <!-- Question 8 answer 1. [CHAR LIMIT=NONE]-->
+    <string name="question_8_answer_1">A. rosu, albastru, verde;</string>
+
+    <!-- Question 8 answer 2. [CHAR LIMIT=NONE]-->
+    <string name="question_8_answer_2">B. verde, rosu, albastru;</string>
+
+    <!-- Question 8 answer 3. [CHAR LIMIT=NONE]-->
+    <string name="question_8_answer_3">C. albastru, rosu, verde.</string>
+
+    <!-- Question 8 NO answer text. [CHAR LIMIT=1]-->
+    <string name="no_answer_question_8_text">Nu ati raspuns la intrebarea 8! Va rugam revedeti intrebarea 8 si incercati sa dati raspunsul corect!</string>
+
+    <!-- Questions 9 text. [CHAR LIMIT=12]-->
+    <string name="question_9_text">Intrebarea 9:</string>
+
+    <!-- Questions 9 context. [CHAR LIMIT=NONE]-->
+    <string name="question_9_context">In sensul conducerii ecologice a unui autovehicul, se recomanda:</string>
+
+    <!-- Question 9 answer 1. [CHAR LIMIT=NONE]-->
+    <string name="question_9_answer_1">A. sa evitati transportul obiectelor inutile in portbagaj sau in habitaclu;</string>
+
+    <!-- Question 9 answer 2. [CHAR LIMIT=NONE]-->
+    <string name="question_9_answer_2">B. sa nu aveti montat in permanenta pe autovehicul portbagajul suplimentar;</string>
+
+    <!-- Question 9 answer 3. [CHAR LIMIT=NONE]-->
+    <string name="question_9_answer_3">C. sa utilizati spoilere si faruri suplimentare.</string>
+
+    <!-- Question 9 NO answer text. [CHAR LIMIT=1]-->
+    <string name="no_answer_question_9_text">Nu ati raspuns la intrebarea 9! Va rugam revedeti intrebarea 9 si incercati sa dati raspunsul corect!</string>
+
+    <!-- Questions 10 text. [CHAR LIMIT=12]-->
+    <string name="question_10_text">Intrebarea 10:</string>
+
+    <!-- Questions 10 context. [CHAR LIMIT=NONE]-->
+    <string name="question_10_context">Care dintre autovehicule va intra ultimul in intersectie?</string>
+
+    <!-- Question 10 answer 1. [CHAR LIMIT=NONE]-->
+    <string name="question_10_answer_1">A. autoturismul;</string>
+
+    <!-- Question 10 answer 2. [CHAR LIMIT=NONE]-->
+    <string name="question_10_answer_2">B. autobuzul;</string>
+
+    <!-- Question 10 answer 3. [CHAR LIMIT=NONE]-->
+    <string name="question_10_answer_3">C. autocamionul.</string>
+
+    <!-- Question 10 NO answer text. [CHAR LIMIT=1]-->
+    <string name="no_answer_question_10_text">Nu ati raspuns la intrebarea 10! Va rugam revedeti intrebarea 10 si incercati sa dati raspunsul corect!</string>
+
+    <!-- Thank you text. [CHAR LIMIT=NONE]-->
+    <string name="thank_you_text">Multumim ca ati ales Scoala de Soferi Schumacher!</string>
+
+    <!-- Test finish button text. [CHAR LIMIT=20]-->
+    <string name="check_answer_button_text">Finalizati test</string>
+
+    <!-- Results message 1. [CHAR LIMIT=NONE]-->
+    <string name="results_message_one">Ati raspuns corect la" "</string>
+
+    <!-- Results message 2. [CHAR LIMIT=NONE]-->
+    <string name="results_message_two">" "din" "</string>
+
+    <!-- Results message 3. [CHAR LIMIT=NONE]-->
+    <string name="results_message_three">" "intrebari!</string>
+
+    <!-- Send results via eMail text button. [CHAR LIMIT=20]-->
+    <string name="send_results">Trimite-ti rezultatele</string>
+
+    <!-- Results text. [CHAR LIMIT=10]-->
+    <string name="results_text">Rezultatele testului pentru:" "</string>
+
+    <!-- Sorry text message. [CHAR LIMIT=20]-->
+    <string name="sorry_text">Ne pare rau! Nu ati trecut testul final! Va sugeram sa mai puneti putin mana pe carte!</string>
+
+    <!-- eMail subject text. [CHAR LIMIT=20]-->
+    <string name="email_subject">Rezultatele testului pentru" "</string>
+
+    <!-- Congrats text message. [CHAR LIMIT=20]-->
+    <string name="congrats_text">Felicitari! Ati trecut cu brio testul final!</string>
+
+    <!--Error message when trying to send email and there are no answers to any questions. [CHAR LIMIT=20]-->
+    <string name="test_not_finished_text">Inainte de a va trimite rezultatele testului pe e-mail, va rugam sa raspundeti la toate intrebarile si sa apasati butonul FINALIZATI TEST!</string>
+
+    <!-- eMail begin text. [CHAR LIMIT=20]-->
+    <string name="email_begin">Stimate Domn / Stimata Doamna,</string>
+
+    <!-- Error message if email field is not filled in. [CHAR LIMIT=NONE]-->
+    <string name="email_error_text">Nu v-ati completat e-mail-ul! Pentru a va putea trimite email-ul cu rezultatele testului va rugam sa mergeti sus, la campul "Email-ul Dvs." si completati-va e-mail-ul!</string>
+
+    <!-- Error message if name field is not filled in. [CHAR LIMIT=NONE]-->
+    <string name="name_error_text">Nu v-ati completat numele! Pentru a termina testul, va rugam mergeti sus, la campul "Numele Dvs." si completati-va numele!</string>
+</resources>

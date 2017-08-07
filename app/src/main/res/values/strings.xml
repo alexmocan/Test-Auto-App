@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Name of the app. [CHAR LIMIT=20]-->
+    <string name="app_name">Auto Test</string>
+
+    <!-- Welcome header text. [CHAR LIMIT=NONE]-->
+    <string name="welcome_text">Welcome to your final exam!</string>
+
+    <!-- Fill in mane instructions text. [CHAR LIMIT=NONE]-->
+    <string name="fill_in_instruction_text">Please fill in your name and your e-mail below and then start the test! Good Luck!</string>
+
+    <!-- Student name. [CHAR LIMIT=100]-->
+    <string name="student_name">Your Name</string>
+
+    <!-- Student e-mail. [CHAR LIMIT=100]-->
+    <string name="student_email">Your E-mail</string>
+
+    <!-- Questions instructions text. [CHAR LIMIT=NONE]-->
+    <string name="questions_instruction_text">Read carefully every question and give/choose the right answer! Every question have at least one correct answer. To pass the exam, you have to answer correct 8 out of 10 questions!</string>
+
+    <!-- Questions 1 text. [CHAR LIMIT=12]-->
+    <string name="question_1_text">Question 1:</string>
+
+    <!-- Questions 1 context. [CHAR LIMIT=NONE]-->
+    <string name="question_1_context">What route(s) you have to follow to turn left at intersection?</string>
+
+    <!-- Question 1 answer. [CHAR LIMIT=1]-->
+    <string name="question_1_answer">Answer 1: write down the number of the route(s)</string>
+
+    <!-- Question 1 NO answer text. [CHAR LIMIT=1]-->
+    <string name="no_answer_question_1_text"> You didin\'t answer to question 1! Please review question 1 and try to give the correct answer!</string>
+
+    <!-- Questions 2 text. [CHAR LIMIT=12]-->
+    <string name="question_2_text">Question 2:</string>
+
+    <!-- Questions 2 context. [CHAR LIMIT=NONE]-->
+    <string name="question_2_context">Driving speed must not exceed 30km/h in localities or 50km/h outside of the localities:</string>
+
+    <!-- Question 2 answer 1. [CHAR LIMIT=NONE]-->
+    <string name="question_2_answer_1">A. when meeting \"Priority Road\" sign;</string>
+
+    <!-- Question 2 answer 2. [CHAR LIMIT=NONE]-->
+    <string name="question_2_answer_2">B. in particularly, when there are dangerous curves accordingly signaled or when visibility is less than 50m;</string>
+
+    <!-- Question 2 answer 3. [CHAR LIMIT=NONE]-->
+    <string name="question_2_answer_3">C. when driving in the same direction with buses stopped at the station, on roads with one lane on the way.</string>
+
+    <!-- Question 2 NO answer text. [CHAR LIMIT=1]-->
+    <string name="no_answer_question_2_text"> You didin\'t answer to question 2! Please review question 2 and try to give the correct answer!</string>
+
+    <!-- Questions 3 text. [CHAR LIMIT=12]-->
+    <string name="question_3_text">Question 3:</string>
+
+    <!-- Questions 3 context. [CHAR LIMIT=NONE]-->
+    <string name="question_3_context">What is the right signaling when driving backward?</string>
+
+    <!-- Question 3 answer 1. [CHAR LIMIT=NONE]-->
+    <string name="question_3_answer_1">A. intermittent clapping to alert traffic participants behind the vehicle;</string>
+
+    <!-- Question 3 answer 2. [CHAR LIMIT=NONE]-->
+    <string name="question_3_answer_2">B. reverse lights signaling with vehicle back-lights;</string>
+
+    <!-- Question 3 answer 3. [CHAR LIMIT=NONE]-->
+    <string name="question_3_answer_3">C. use of emergency warning lights.</string>
+
+    <!-- Question 3 NO answer text. [CHAR LIMIT=1]-->
+    <string name="no_answer_question_3_text"> You didin\'t answer to question 3! Please review question 3 and try to give the correct answer!</string>
+
+    <!-- Questions 4 text. [CHAR LIMIT=12]-->
+    <string name="question_4_text">Question 4:</string>
+
+    <!-- Questions 4 context. [CHAR LIMIT=NONE]-->
+    <string name="question_4_context">Which is the optimal route to turn around in the intersection shown below?</string>
+
+    <!-- Question 4 answer. [CHAR LIMIT=1]-->
+    <string name="question_4_answer">Answer 4: write down the number of the route(s)</string>
+
+    <!-- Question 4 NO answer text. [CHAR LIMIT=1]-->
+    <string name="no_answer_question_4_text"> You didin\'t answer to question 4! Please review question 4 and try to give the correct answer!</string>
+
+    <!-- Questions 5 text. [CHAR LIMIT=12]-->
+    <string name="question_5_text">Question 5:</string>
+
+    <!-- Questions 5 context. [CHAR LIMIT=NONE]-->
+    <string name="question_5_context">What is the driver’s frequently misconduct that causes clutch failure?</string>
+
+    <!-- Question 5 answer 1. [CHAR LIMIT=NONE]-->
+    <string name="question_5_answer_1">A. lowering the slopes with the engine stopped or bringing the gear shifter to neutral;</string>
+
+    <!-- Question 5 answer 2. [CHAR LIMIT=NONE]-->
+    <string name="question_5_answer_2">B. driving with large wear at the clutch pedal or at the steering gear;</string>
+
+    <!-- Question 5 answer 3. [CHAR LIMIT=NONE]-->
+    <string name="question_5_answer_3">C. waiting at the semaphore with the clutch pedal pressed.</string>
+
+    <!-- Question 5 NO answer text. [CHAR LIMIT=1]-->
+    <string name="no_answer_question_5_text"> You didin\'t answer to question 5! Please review question 5 and try to give the correct answer!</string>
+
+    <!-- Questions 6 text. [CHAR LIMIT=12]-->
+    <string name="question_6_text">Question 6:</string>
+
+    <!-- Questions 6 context. [CHAR LIMIT=NONE]-->
+    <string name="question_6_context">Which of the two vehicles will first enter the intersection?</string>
+
+    <!-- Question 6 answer 1. [CHAR LIMIT=NONE]-->
+    <string name="question_6_answer_1">A. motorcycle because it moves faster;</string>
+
+    <!-- Question 6 answer 2. [CHAR LIMIT=NONE]-->
+    <string name="question_6_answer_2">B. motorcycle as it moves ahead;</string>
+
+    <!-- Question 6 answer 3. [CHAR LIMIT=NONE]-->
+    <string name="question_6_answer_3">C. the car as it moves on the priority road.</string>
+
+    <!-- Question 6 NO answer text. [CHAR LIMIT=1]-->
+    <string name="no_answer_question_6_text"> You didin\'t answer to question 6! Please review question 6 and try to give the correct answer!</string>
+
+    <!-- Questions 7 text. [CHAR LIMIT=12]-->
+    <string name="question_7_text">Question 7:</string>
+
+    <!-- Questions 7 context. [CHAR LIMIT=NONE]-->
+    <string name="question_7_context">Speed will be reduced and the vehicle will be stopped:</string>
+
+    <!-- Question 7 answer 1. [CHAR LIMIT=NONE]-->
+    <string name="question_7_answer_1">A. when driving on a road with a traffic lane in the direction of travel, the forward movement is obstructed by an obstacle or the presence of other road users, and other vehicles are running oppositely;</string>
+
+    <!-- Question 7 answer 2. [CHAR LIMIT=NONE]-->
+    <string name="question_7_answer_2">B. to the border police signal;</string>
+
+    <!-- Question 7 answer 3. [CHAR LIMIT=NONE]-->
+    <string name="question_7_answer_3">C. when barriers or semi-barriers are lowered, are in the way down or are being lifted.</string>
+
+    <!-- Question 7 NO answer text. [CHAR LIMIT=1]-->
+    <string name="no_answer_question_7_text"> You didin\'t answer to question 7! Please review question 7 and try to give the correct answer!</string>
+
+    <!-- Questions 8 text. [CHAR LIMIT=12]-->
+    <string name="question_8_text">Question 8:</string>
+
+    <!-- Questions 8 context. [CHAR LIMIT=NONE]-->
+    <string name="question_8_context">In what order the three cars will pass through the crossroad?</string>
+
+    <!-- Question 8 answer 1. [CHAR LIMIT=NONE]-->
+    <string name="question_8_answer_1">A. the red, blue and then green car;</string>
+
+    <!-- Question 8 answer 2. [CHAR LIMIT=NONE]-->
+    <string name="question_8_answer_2">B. the green, red and then blue car;</string>
+
+    <!-- Question 8 answer 3. [CHAR LIMIT=NONE]-->
+    <string name="question_8_answer_3">C. the blue, red and then green car.</string>
+
+    <!-- Question 8 NO answer text. [CHAR LIMIT=1]-->
+    <string name="no_answer_question_8_text"> You didin\'t answer to question 8! Please review question 8 and try to give the correct answer!</string>
+
+    <!-- Questions 9 text. [CHAR LIMIT=12]-->
+    <string name="question_9_text">Question 9:</string>
+
+    <!-- Questions 9 context. [CHAR LIMIT=NONE]-->
+    <string name="question_9_context">For the purposes of ecological driving a car is recommended:</string>
+
+    <!-- Question 9 answer 1. [CHAR LIMIT=NONE]-->
+    <string name="question_9_answer_1">A. to avoid carrying unnecessary objects in the luggage compartment or on the seats;</string>
+
+    <!-- Question 9 answer 2. [CHAR LIMIT=NONE]-->
+    <string name="question_9_answer_2">B. to not permanently mount the additional trunk on the vehicle;</string>
+
+    <!-- Question 9 answer 3. [CHAR LIMIT=NONE]-->
+    <string name="question_9_answer_3">C. to use additional spoilers and headlights.</string>
+
+    <!-- Question 9 NO answer text. [CHAR LIMIT=1]-->
+    <string name="no_answer_question_9_text"> You didin\'t answer to question 9! Please review question 9 and try to give the correct answer!</string>
+
+    <!-- Questions 10 text. [CHAR LIMIT=12]-->
+    <string name="question_10_text">Question 10:</string>
+
+    <!-- Questions 10 context. [CHAR LIMIT=NONE]-->
+    <string name="question_10_context">Which of the vehicles will enter last in intersection?</string>
+
+    <!-- Question 10 answer 1. [CHAR LIMIT=NONE]-->
+    <string name="question_10_answer_1">A. the car;</string>
+
+    <!-- Question 10 answer 2. [CHAR LIMIT=NONE]-->
+    <string name="question_10_answer_2">B. the bus;</string>
+
+    <!-- Question 10 answer 3. [CHAR LIMIT=NONE]-->
+    <string name="question_10_answer_3">C. the truck.</string>
+
+    <!-- Question 10 NO answer text. [CHAR LIMIT=1]-->
+    <string name="no_answer_question_10_text"> You didin\'t answer to question 10! Please review question 10 and try to give the correct answer!</string>
+
+    <!-- Test finish button text. [CHAR LIMIT=20]-->
+    <string name="check_answer_button_text">Finish test</string>
+
+    <!-- Error message if name field is not filled in. [CHAR LIMIT=NONE]-->
+    <string name="name_error_text">You did not filled in your name! To finish the test, please go up at "Your name" field and write down your name!</string>
+
+    <!-- Error message if email field is not filled in. [CHAR LIMIT=NONE]-->
+    <string name="email_error_text">You did not filled in your email! To send your test results via email, please go up at "Your email" field and write down your email!</string>
+
+    <!-- Results text. [CHAR LIMIT=10]-->
+    <string name="results_text">Test results for:" "</string>
+
+    <!-- Results message 1. [CHAR LIMIT=NONE]-->
+    <string name="results_message_one">You have answered correctly to" "</string>
+
+    <!-- Results message 2. [CHAR LIMIT=20]-->
+    <string name="results_message_two">" "out of" "</string>
+
+    <!-- Results message 3. [CHAR LIMIT=20]-->
+    <string name="results_message_three">" "questions!</string>
+
+    <!-- Congrats text message. [CHAR LIMIT=20]-->
+    <string name="congrats_text">Congratulation! You have pass the final exam!</string>
+
+    <!-- Sorry text message. [CHAR LIMIT=20]-->
+    <string name="sorry_text">We are sorry! You did not pass the final exam! We encourage you to study a little more!</string>
+
+    <!--Error message when trying to send email and there are no answers to any questions. [CHAR LIMIT=20]-->
+    <string name="test_not_finished_text">Before sending the email with your test results, you must firstly answer to all of the questions and press FINISH TEST button!</string>
+
+    <!-- eMail subject text. [CHAR LIMIT=20]-->
+    <string name="email_subject">Test results for </string>
+
+    <!-- eMail begin text. [CHAR LIMIT=20]-->
+    <string name="email_begin">Dear Mr. / Mrs.</string>
+
+    <!-- Send results via eMail text button. [CHAR LIMIT=20]-->
+    <string name="send_results">Send results</string>
+
+    <!-- Thank you text. [CHAR LIMIT=NONE]-->
+    <string name="thank_you_text">Thank you for choosing Schumacher Drive School!</string>
+</resources>
