@@ -4,6 +4,9 @@
     <!-- Name of the app. [CHAR LIMIT=20]-->
     <string name="app_name">Auto Test</string>
 
+    <!-- Logo of the app. [CHAR LIMIT=5]-->
+    <string name="logo">Logo</string>
+
     <!-- Welcome header text. [CHAR LIMIT=NONE]-->
     <string name="welcome_text">Welcome to your final exam!</string>
 
@@ -24,6 +27,9 @@
 
     <!-- Questions 1 context. [CHAR LIMIT=NONE]-->
     <string name="question_1_context">What route(s) you have to follow to turn left at intersection?</string>
+
+    <!-- Question 1 image. [CHAR LIMIT=25]-->
+    <string name="question_1_image">Image of question 1</string>
 
     <!-- Question 1 answer. [CHAR LIMIT=1]-->
     <string name="question_1_answer">Answer 1: write down the number of the route(s)</string>
@@ -73,6 +79,9 @@
     <!-- Questions 4 context. [CHAR LIMIT=NONE]-->
     <string name="question_4_context">Which is the optimal route to turn around in the intersection shown below?</string>
 
+    <!-- Question 4 image. [CHAR LIMIT=25]-->
+    <string name="question_4_image">Image of question 4</string>
+
     <!-- Question 4 answer. [CHAR LIMIT=1]-->
     <string name="question_4_answer">Answer 4: write down the number of the route(s)</string>
 
@@ -102,6 +111,9 @@
 
     <!-- Questions 6 context. [CHAR LIMIT=NONE]-->
     <string name="question_6_context">Which of the two vehicles will first enter the intersection?</string>
+
+    <!-- Question 6 image. [CHAR LIMIT=25]-->
+    <string name="question_6_image">Image of question 6</string>
 
     <!-- Question 6 answer 1. [CHAR LIMIT=NONE]-->
     <string name="question_6_answer_1">A. motorcycle because it moves faster;</string>
@@ -139,6 +151,9 @@
     <!-- Questions 8 context. [CHAR LIMIT=NONE]-->
     <string name="question_8_context">In what order the three cars will pass through the crossroad?</string>
 
+    <!-- Question 8 image. [CHAR LIMIT=25]-->
+    <string name="question_8_image">Image of question 8</string>
+
     <!-- Question 8 answer 1. [CHAR LIMIT=NONE]-->
     <string name="question_8_answer_1">A. the red, blue and then green car;</string>
 
@@ -174,6 +189,9 @@
 
     <!-- Questions 10 context. [CHAR LIMIT=NONE]-->
     <string name="question_10_context">Which of the vehicles will enter last in intersection?</string>
+
+    <!-- Question 8 image. [CHAR LIMIT=25]-->
+    <string name="question_10_image">Image of question 10</string>
 
     <!-- Question 10 answer 1. [CHAR LIMIT=NONE]-->
     <string name="question_10_answer_1">A. the car;</string>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:showIn="@layout/activity_main">
+
+    <TextView
+        style="@style/QuestionTextStyle"
+        android:text="@string/question_1_text" />
+
+    <TextView
+        style="@style/QuestionContextStyle"
+        android:text="@string/question_1_context" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="245dp"
+        android:layout_marginBottom="2dp"
+        android:layout_marginTop="2dp"
+        android:contentDescription="@string/question_1_image"
+        android:scaleType="centerInside"
+        android:src="@drawable/question_01_photo" />
+
+    <EditText
+        android:id="@+id/question_1_answer"
+        style="@style/AnswerEditTextStyle"
+        android:hint="@string/question_1_answer"
+        android:inputType="number" />
+</merge>

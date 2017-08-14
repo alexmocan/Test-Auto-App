@@ -242,6 +242,11 @@ public class MainActivity extends AppCompatActivity {
                 body += getString(R.string.results_message_two);
                 body += NUMBER_OF_QUESTIONS;
                 body += getString(R.string.results_message_three);
+                if (correctAnswers >= 8) {
+                    body += "\n" + "\n" + getString(R.string.congrats_text);
+                } else {
+                    body += "\n" + "\n" + getString(R.string.sorry_text);
+                }
                 body += "\n" + "\n" + getString(R.string.thank_you_text);
                 composeEmail(studentEmail, emailSubject, body);
             }

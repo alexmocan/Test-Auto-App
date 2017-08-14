@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:showIn="@layout/activity_main">
+
+    <TextView
+        style="@style/QuestionTextStyle"
+        android:text="@string/question_6_text" />
+
+    <TextView
+        style="@style/QuestionContextStyle"
+        android:text="@string/question_6_context" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="245dp"
+        android:layout_marginBottom="2dp"
+        android:layout_marginTop="2dp"
+        android:contentDescription="@string/question_6_image"
+        android:scaleType="centerInside"
+        android:src="@drawable/question_09_photo" />
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RadioButton
+            android:id="@+id/question_6_answer_1"
+            style="@style/RadioButtonTextStyle"
+            android:text="@string/question_6_answer_1" />
+
+        <RadioButton
+            android:id="@+id/question_6_answer_2"
+            style="@style/RadioButtonTextStyle"
+            android:text="@string/question_6_answer_2" />
+
+        <RadioButton
+            android:id="@+id/question_6_answer_3"
+            style="@style/RadioButtonTextStyle"
+            android:text="@string/question_6_answer_3" />
+    </RadioGroup>
+</merge>
